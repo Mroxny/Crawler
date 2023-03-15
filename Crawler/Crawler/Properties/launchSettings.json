@@ -1,7 +1,8 @@
 {
   "profiles": {
     "Crawler": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "https://pja.edu.pl"
     },
     "WSL": {
       "commandName": "WSL2",
